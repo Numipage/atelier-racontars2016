@@ -9,3 +9,4 @@ Vous y trouverez:
 - Le document finalisé prêt pour la conversion
 - L'EPUB généré à l'issue de l'atelier
 - Un document retraçant les étapes de l'atelier
+- Le pdf d'origine: horloge-strasbourg.pdf
