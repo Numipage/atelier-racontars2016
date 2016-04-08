@@ -5,8 +5,7 @@ Bienvenue sur le Git pour l'atelier, à destination des participants de l'atelie
 
 Vous y trouverez:
 - Le slide de l'atelier: presentation.odp
-- Le document en .odt sur lequel des styles restent à appliquer
-- Le document finalisé prêt pour la conversion
+- Le document en .odt sur lequel des styles restent à appliquer: Description de l'Horloge astronomique de la Cathédrale de Strasbourg.odt
 - L'EPUB généré à l'issue de l'atelier
 - Un document retraçant les étapes de l'atelier
 - Le pdf d'origine: horloge-strasbourg.pdf
