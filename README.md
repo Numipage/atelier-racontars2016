@@ -4,7 +4,7 @@ Fichiers sources pour l'atelier de création d'ebook dans le cadre des Racontars
 Bienvenue sur le Git pour l'atelier, à destination des participants de l'atelier ou des curieux.
 
 Vous y trouverez:
-- Le slide de l'atelier
+- Le slide de l'atelier: presentation.odp
 - Le document en .odt sur lequel des styles restent à appliquer
 - Le document finalisé prêt pour la conversion
 - L'EPUB généré à l'issue de l'atelier
