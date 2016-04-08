@@ -1,0 +1,41 @@
+Exercice sur le odt:
+p. 9 A Lebeuf en gras et centré => création d’un style spécifique
+p 10 : insérer une note de bas de page, appliquer un style différent
+P 23 : une autre note de bas de page.
+P 24 : marge à la place du saut de paragraphe sur h2
+P 41 : Styles à compléter
+Styles à utiliser : h1, corps de texte, aligndroiteplus, corpsdetexte-sansmarge
+
+Sur l'EPUB généré avec Calibre:
+Marge pour la citation à l'aide d'un <div>
+index_split_005.xhtml
+
+Légendes des images à revoir, puis ajouter une marge entre légendes et images
+
+index_split_007.xhtml
+notes restées encadrées en jaunes. Trouver dans le css d'où ca vient
+
+index_split_007.xhtml
+Création des notes en fin de chapitre. Ajout d'un hr pour marquer la séparation
+
+index_split_015.xhtml
+remettre le A) dans le 14.xhtml
+Ajouter liens sur le mini sommaire dans le 14.xhtml
+
+index_split_029.xhtml
+changer div class de l’image (p-p10)
+
+Ajouter lettrine
+span.lettrine {
+float:left;
+font-family: "Liberation Serif", serif;
+font-size:3em;
+text-indent:0;
+margin-right:0.1em;
+}
+
+Création table des matières
+
+Ajout des metadata
+
+
